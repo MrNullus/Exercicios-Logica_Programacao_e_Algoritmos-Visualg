@@ -1,0 +1,31 @@
+Situação problema: Crie um algoritmo que leia 4 numeros e faça, as 4 operações basicas (adicao, subtracao, divisao e
+multiplicação) entre si. Posteriormente a isso, exiba o resultado das 4 operações na tela.
+
+Variaveis:
+
+n1 : real
+n2 : real
+n3 : real
+n4 : real
+adicao : real
+subtracao : real
+multiplicacao : real
+divisao : real
+
+Inicio
+
+escreva("Digite o 1º numero por favor: ");
+escreva("Digite agora o 2° numero: ");
+escreva("Digite o 3° numero: ");
+escreva("Digite o 4° numero: ");
+
+
+adicao:= n1 + n2;
+subtracao:= n2 - n3;
+muliplicacao:= n3 * n4;
+divisao:= n4 / n1; 
+
+leia(adicao)
+leia(subtracao)
+leia(multiplicacao)
+leia(divisao)

@@ -1,0 +1,36 @@
+-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=
+	1-A escola “APRENDER” faz o pagamento de seus professores por hora/aula. Faça um algoritmo que calcule e exiba o salário de um professor. Sabe-se que o valor da hora/aula segue a tabela abaixo: 	-= Professor Nível 1 R$12,00 por hora/aula 
+	-= Professor Nível 2 R$17,00 por hora/aula 
+	-= Professor Nível 3 R$25,00 por hora/aula
+
+HoraTrabalho, Sal_Prof, Nivel1, Nivel2, Nivel3 : real
+
+Sal_Prof = HoraTrabalho * Nivel1 //opc = 1
+Sal_Prof = HoraTrabalho * Nivel2 //opc = 2
+Sal_Prof = HoraTrabalho * Nivel3 //opc = 3
+
+-=-==-=-=-=-=-==-=-=-=-=-=	=-=-=-=-=-==-=-=-=-=-==-=-=
+	2-Elabore um algoritmo que leia 5 valores inteiros e apresente na tela o maior e o menor deles.
+
+
+-=-==-=-=-=-=-==-=-=-=-=-=	=-=-=-=-=-==-=-=-=-=-==-=-=
+	3-Dados três valores X, Y e Z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem verificar se é um triângulo equilátero, isósceles ou escalenos. Se eles não formarem um triângulo, escrever a mensagem. Considere as seguintes propriedades:>
+	•O comprimento de cada lado em um triângulo é menor que a soma dos outros dois lados; 			•Equiláteros: tem os comprimentos dos três lados iguais; 
+	•Isósceles: tem os comprimentos de dois lados iguais; 
+	•escaleno: tem os comprimentos dos três lados diferentes.
+
+
+-=-==-=-=-=-=-==-=-=-=-=-=	=-=-=-=-=-==-=-=-=-=-==-=-=-=
+	4-Construa um algoritmo que calcule o peso ideal de uma pessoa. Dados de entrada: altura e sexo. Fórmulas para cálculo do peso: peso ideal de homem = (72,7 x altura) - 58 
+peso ideal da mulher = (62,1 x altura) - 44,7
+
+
+
+-=-==-=-=-=-=-==-=-=-=-=-=	=-=-=-=-=-==-=-=-=-=-==-=-=-=
+	5- Uma empresa concederá um aumento de salário aos seus funcionários, variável de acordo com o cargo, conforme a tabela abaixo. Faça um algoritmo que leia o salário e o cargo de um funcionário e calcule o novo salário. Se o cargo do funcionário não estiver na tabela, ele deverá, então, receber 40% de aumento. Mostre o salário antigo, o novo salário e a diferença. Código Cargo Percentual:>
+	-= Se nn tem 40%
+	-= 101 Gerente 10% 
+	-= 102 Engenheiro 20% 
+	-= 103 Técnico 30%
+
+-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=-=-==-=-=-=

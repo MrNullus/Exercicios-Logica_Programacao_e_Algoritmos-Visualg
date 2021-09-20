@@ -1,0 +1,35 @@
+1-Escrever um algoritmo que leia dois valores inteiros distintos e informe qual é o maior
+
+v1, v2 : inteiro
+
+Escreval("-= Os valores devem ser inteiros e diferentes =-")
+Escreva("Digite o primeiro valor: ")
+Escreva("Digite o segundo valor: ")
+
+//v1 <> v2
+SE(v1 == v2) ENTÃO
+	Escreva("Os valores devem ser diferentes!")
+Senão
+	//v1 > v2 "O valor ", v1," é maior que o ",v2
+	SE(v1 > v2) ENTÃO
+		Escreval("O primeiro valor, ", v1," é maior que o segundo, ", v2)
+	SENÃO
+		Escreval("O primeiro valor, ", v2," é maior que o segundo, ", v1)
+	FIMSE
+FIMSE
+
+
+2-Elabore um algoritmo que leia do teclado o sexo de uma pessoa. Se o sexo digitado for M ou F, escrever na tela “Sexo válido!”. Caso contrário, informar “Sexo inválido!”;
+
+3-Elabore um algoritmo que leia dois números inteiros e mostre o resultado da diferença do maior valor pelo menor;
+n1, n2 : inteiro
+
+// n1 > n2 Saber a diferença entre n1 - n2
+SE(n1 = inteiro) E (n2 = inteiro) ENTÃO
+	
+
+4-Elabore um algoritmo a ler 4 notas de um aluno (de 1 a 10). Após calcular a média das notas, apresentar a mensagem “Aprovada” se o aluno tiver obtido média maior ou igual a 6, caso contrário, apresentar “Reprovado”.
+
+//media >= 6 "Aprovado" | media < 6 "Reprovado"
+
+5-- Elabore um algoritmo que leia 5 valores inteiros e apresente na tela o maior e o menor deles

@@ -1,0 +1,43 @@
+Algoritmo: é a sequencia logica dos passos a serem seguidos para que se atinga um objetivo em especifico.
+
+Situação problema: crie um algoritmo que leia dois numeros e faça um adição entre si. E posteriormente exibir o resultado
+dessa adição.
+
+numero1:7
+numero2:5
+adicao:numero1+numero2.
+
+Solução em idioma corrento ( Portugues )
+
+
+===============================================================================================
+Variavies:é um pequeno espaço na memoria do computador, disponivel para armazenamento dos dados digitados pelo usuário. 
+Lembrando que ela pode ser de 4 tipos diferentes: texto ( CARACTERE), Inteiro, Real, Lógico.
+
+caracter ( texto) : São variaveis, que armazenam todo e qualquer tipo de texto, ex: nome, endereço, nome do cargo;
+Inteiro: Armazenar valores numericos inteiros, sem casas decimais, Ex: 10 | 20 | 500 | 10000 
+real: Armazenar valores numericos incluindo as casas decimais, ex: 10,5 | 7,9 |100,3 | 104,50
+Logico: Armazenamento de valores lógicos e nao alternativos: M|F,   L|D,    +18|-18.
+
+Situção problema:crie um algoritmo que leia dois numeros e faça um adição entre si. E posteriormente exibir o resultado
+dessa adição.
+
+Variaveis:     
+
+N1:real
+N2:real
+adicao:real
+
+Incio
+
+escreva("Digite o 1º numero:");
+leia(N1)
+escreva("Digite o 2º numero:");
+leia(N2)
+adicao:=N1+N2;
+escreva(adicao);
+
+Situação problema: Crie um algoritmo que leia 4 numeros e faça, as 4 operações basicas (adicao, subtracao, divisao e
+multiplicação) entre si. Posteriormente a isso, exiba o resultado das 4 operações na tela.
+
+

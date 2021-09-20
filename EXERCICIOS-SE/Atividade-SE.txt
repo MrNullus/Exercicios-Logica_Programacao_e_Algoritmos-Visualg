@@ -1,0 +1,8 @@
+1)Faça um algoritmo que leia um número inteiro diferente de zero e diga se este é positivo ou negativo.O Algoritmo também precisa dizer se o número é igual a zero (use se encadeados) 
+ 
+2)Elabore um algoritmo que calcule o que deve ser pago por um produto ( seja ele qual for ), considerando o preço normal de etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual acondição de pagamento escolhida e efetuar o cálculo adequado. Código Condição de pagamento: 
+	1 À vista em dinheiro ou cheque, recebe 10% de desconto  
+	2 À vista no cartão de crédito, recebe 15% de desconto  
+	3 Em duas vezes, preço normal de etiqueta sem juros 4 Em duas vezes, preço normal de etiqueta mais juros de 10% 
+
+3)Faça um algoritmo que leia uma valor numerico inteiro e some 5 caso seja par ou some 8 caso seja ímpar, imprimir o resultado desta operação. 
